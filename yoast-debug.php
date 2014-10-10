@@ -6,7 +6,8 @@
   Version: 1.0
   Author: Barry Kooij
   Author URI: http://www.barrykooij.com/
-	License: GPL v3
+  GitHub Plugin URI: https://github.com/Yoast/yoast-debug
+  License: GPL v3
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
